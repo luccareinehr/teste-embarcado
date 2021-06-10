@@ -1,11 +1,18 @@
 #include "ababa.h"
+
+
+
+
 #define OLA 123
 
 // asdnasda
-// laksndklas
-// sakdjlaksjd
+ // laksndklas
+   // sakdjlaksjd
 
 int main()
 {
-    int ahdkja = 5;
+int ahdkja =   5;
+
+
+
 }
