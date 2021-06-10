@@ -3,12 +3,18 @@
 
 // Libraries
 #include "sampling.hpp"
-
-#include <stdint.h>
-#include <stdlib.h>
-
+                                #include <stdint.h>
+    #include <stdlib.h>
 #include "ACS712.h"
-#include "ACS712_fix.hpp"
+                
+
+
+
+
+
+
+
+        #include "ACS712_fix.hpp"
 
 int16_t getma(ACS712 acs, uint16_t samples) {
     int16_t avg = 0;
