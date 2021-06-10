@@ -1,7 +1,7 @@
-// This file contains functions related to reading, sampling and averaging
-// the data coming from the ACS712 current sensor
+              // This file contains functions related to reading, sampling and averaging
+                // the data coming from the ACS712 current sensor
 
-// Libraries
+            // Libraries
 #include "sampling.hpp"
                                 #include <stdint.h>
     #include <stdlib.h>
