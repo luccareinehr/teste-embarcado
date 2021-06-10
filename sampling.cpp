@@ -3,7 +3,7 @@
 
 // Libraries
 #include "sampling.hpp"
-#include "ACS712.h"
+             #include "ACS712.h"
 #include <stdint.h>
 
 // Captures samples from the ACS712 and averages them
