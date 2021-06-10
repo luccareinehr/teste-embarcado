@@ -1,0 +1,13 @@
+# To disable formating in a section of code, put
+# '// clang-format off' and '// clang-format on'
+# between its lines.
+
+BasedOnStyle: Google
+---
+Language: Cpp
+# Indent w/ the default size of the tab key
+IndentWidth: 4
+# Automatically break lines in long comments
+ReflowComments: true
+# Align comments trailing code in consecutive lines
+AlignTrailingComments: true
